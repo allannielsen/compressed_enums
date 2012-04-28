@@ -1,0 +1,5 @@
+.build-debug-host-gcc/
+.build-release-gmbhost/
+.release-script-build-host
+.release-script-build-target
+build/
