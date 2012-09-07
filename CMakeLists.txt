@@ -9,4 +9,5 @@ include_directories(include)
 
 add_subdirectory(test)
 
-
+INSTALL(FILES include/compressed_enums.hxx include/consoleColor.h
+    DESTINATION include/compressed_enums)
